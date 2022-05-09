@@ -1,0 +1,21 @@
+@import-normalize;
+@import './ItemPanel.css';
+@import './fonts.css';
+@import './buttons.css';
+@import './ItemPreview.css';
+@import './Ingredient-list.css';
+
+*,
+*::before,
+*::after {
+    font-family: Gotham Rounded, sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.mr-1 {
+    margin-right: 5px;
+}

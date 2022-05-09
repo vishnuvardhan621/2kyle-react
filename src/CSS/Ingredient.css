@@ -1,0 +1,11 @@
+.ingredientDiv {
+    display: flex;
+    flex-direction: row;
+}
+
+.ingCloseButton {
+    background: red;
+}
+.AddIngredient{
+    background: rgb(76, 212, 236);
+}
